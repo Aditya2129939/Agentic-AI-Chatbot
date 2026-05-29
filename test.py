@@ -14,3 +14,5 @@ response = client.models.generate_content(
 )
 
 print(response.text)
+print("This is the end of the test file.")
+print("this is only a test file to check if the API key is working and if the response is being received correctly.")
